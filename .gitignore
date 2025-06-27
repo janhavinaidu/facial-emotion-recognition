@@ -3,7 +3,7 @@
 venv/
 
 # === Ignore model weights ===
-*.pt
+
 
 # === Ignore dataset folders ===
 images/train/
