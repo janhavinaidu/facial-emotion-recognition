@@ -13,3 +13,4 @@ images/validation/
 # === Ignore VSCode settings (if you use VSCode) ===
 .vscode/
 *.zip
+dataset.py
