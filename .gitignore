@@ -1,0 +1,14 @@
+# === Ignore virtual environment ===
+.venv/
+venv/
+
+# === Ignore model weights ===
+*.pt
+
+# === Ignore dataset folders ===
+images/train/
+images/validation/
+
+
+# === Ignore VSCode settings (if you use VSCode) ===
+.vscode/

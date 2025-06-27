@@ -1,0 +1,5 @@
+angry -> angry
+happy -> smiling
+laugh -> Laughing
+neutral -> neutral
+sad -> Crying
